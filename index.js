@@ -4,4 +4,4 @@ const companyName = 'Scuber'
 let mostProfitableNeighborhood = 'Chelsea'
 var companyCeo = 'Susan Smith'
 
-print(companyCeo)
+sys.puts(companyCeo)
